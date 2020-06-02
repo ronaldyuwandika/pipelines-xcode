@@ -12,4 +12,4 @@ steps:
     scheme: ''
     sdk: 'iphoneos'
     configuration: 'Release'
-    xcodeVersion: 'default' # Options: 8, 9, default, Applications/Xcode_10.3.app
+    xcodeVersion: '8' # Options: 8, 9, default, Applications/Xcode_10.3.app
